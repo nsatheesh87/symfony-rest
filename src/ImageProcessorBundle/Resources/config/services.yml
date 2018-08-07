@@ -1,0 +1,4 @@
+services:
+#    image_processor.example:
+#        class: ImageProcessorBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

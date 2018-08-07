@@ -1,0 +1,4 @@
+image_processor_homepage:
+    path:     /
+    defaults: { _controller: ImageProcessorBundle:Default:index }
+    methods: [POST]
