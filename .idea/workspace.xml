@@ -4,7 +4,31 @@
     <bookmark url="file://$PROJECT_DIR$/app/config/config.yml" line="5" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22286c2c-e8ef-40a9-8bcb-a1da4056aca6" name="Default" comment="" />
+    <list default="true" id="22286c2c-e8ef-40a9-8bcb-a1da4056aca6" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ImageProcessorBundle/Entity/Image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ImageProcessorBundle/Entity/User.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ImageProcessorBundle/Form/DataTransformer/Base64ToFileTransformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ImageProcessorBundle/Form/ImageType.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ImageProcessorBundle/Security/ApiKeyUserProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ImageProcessorBundle/Security/TokenAuthenticator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/uploads/15067a5e6fe1050744e42d5bfd7e260a.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/uploads/2a80c7a92d6d03d77271fa8318a57694.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/uploads/3ce1624cf429424f4ef3431b637fb729.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/uploads/4adc407fe3d38ddd88982c9df499e5e5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/uploads/7bf55352224d06ec2bc952436a3d4be2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/uploads/8bb7c956dee44c53163d30504337c848.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/uploads/91242f2b6df58252e5c4dd7d7382ba5a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/uploads/9811a5a8e4d180de4c0e1a022cde63d5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/uploads/ad870c4251208a1ee40d7fe99afffaa4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/uploads/daff5a69e8e8fdfe86eb8335d9df999b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/uploads/e103314ceb6d717736cce26d76bbf61a.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/uploads/e453d617fbd32599f5e7d790bda9fa3f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/uploads/fe0fb7c887bf7c42c9eb341384fa26af.jpeg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ImageProcessorBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/ImageProcessorBundle/Controller/DefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ImageProcessorBundle/FileHandler/Base64ImageHandler.php" afterPath="$PROJECT_DIR$/src/ImageProcessorBundle/FileHandler/Base64ImageHandler.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,16 +43,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
               <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="prod.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/var/logs/prod.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -64,36 +78,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ImageProcessorBundle/Controller/DefaultController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="44" column="48" lean-forward="false" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+            <state relative-caret-position="672">
+              <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ImageProcessorBundle/Entity/User.php">
+      <file leaf-file-name="Base64ImageHandler.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ImageProcessorBundle/FileHandler/Base64ImageHandler.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-              <folding>
-                <element signature="e#46#101#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="384">
+              <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApiKeyUserProvider.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ImageProcessorBundle/Security/ApiKeyUserProvider.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-              <folding>
-                <element signature="e#138#201#0#PHP" expanded="true" />
-              </folding>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="369">
+                <caret line="39" column="3" lean-forward="false" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+                <folding>
+                  <marker date="1533657214454" expanded="true" signature="405:167568" ph="[...]" />
+                  <marker date="1533657214454" expanded="true" signature="167621:167705" ph="{&quot;url&quot;: &quot;http://localhost:8080/uploads/6938edb437aa95ce6cf156db2379bde9.jpeg&quot;...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -115,6 +131,9 @@
       <find>uploadedImage</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -133,7 +152,6 @@
         <option value="$PROJECT_DIR$/vendor/friendsofsymfony/rest-bundle/Controller/ExceptionController.php" />
         <option value="$PROJECT_DIR$/src/ImageProcessorBundle/Exception/Base64ImageHandlerException.php" />
         <option value="$PROJECT_DIR$/src/ImageProcessorBundle/Form/DataTransformer/Base64ToFileTransformer.php" />
-        <option value="$PROJECT_DIR$/src/ImageProcessorBundle/FileHandler/Base64ImageHandler.php" />
         <option value="$PROJECT_DIR$/src/ImageProcessorBundle/Form/ImageType.php" />
         <option value="$PROJECT_DIR$/src/ImageProcessorBundle/Entity/Image.php" />
         <option value="$PROJECT_DIR$/src/ImageProcessorBundle/Security/ApiKeyAuthenticator.php" />
@@ -145,6 +163,8 @@
         <option value="$PROJECT_DIR$/app/config/config.yml" />
         <option value="$PROJECT_DIR$/var/logs/prod.log" />
         <option value="$PROJECT_DIR$/src/ImageProcessorBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/src/ImageProcessorBundle/FileHandler/Base64ImageHandler.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -161,6 +181,7 @@
     <option name="width" value="1938" />
     <option name="height" value="1058" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -218,14 +239,7 @@
               <item name="image-validator" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="ImageProcessorBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Entity" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="image-validator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="image-validator" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ImageProcessorBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Security" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="FileHandler" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="image-validator" type="b2602c69:ProjectViewProjectNode" />
@@ -275,12 +289,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533353258718</updated>
-      <workItem from="1533353260599" duration="82653000" />
+      <workItem from="1533353260599" duration="83663000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82653000" />
+    <option name="totallyTimeSpent" value="83663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -292,7 +306,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -316,16 +330,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#40#97#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ImageProcessorBundle/ImageProcessorBundle.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -526,9 +530,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="e#60#98#0#PHP" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -578,14 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2218">
           <caret line="129" column="30" lean-forward="false" selection-start-line="129" selection-start-column="23" selection-end-line="129" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ImageProcessorBundle/FileHandler/Base64ImageHandler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="45" lean-forward="false" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -642,9 +636,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="966">
           <caret line="46" column="7" lean-forward="false" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-          <folding>
-            <element signature="e#98#143#0#PHP" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -668,9 +660,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
           <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="e#46#101#0#PHP" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -678,9 +668,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding>
-            <element signature="e#138#201#0#PHP" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -734,9 +722,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ImageProcessorBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="44" column="48" lean-forward="false" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+        <state relative-caret-position="672">
+          <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ImageProcessorBundle/FileHandler/Base64ImageHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="369">
+            <caret line="39" column="3" lean-forward="false" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+            <folding>
+              <marker date="1533657214454" expanded="true" signature="405:167568" ph="[...]" />
+              <marker date="1533657214454" expanded="true" signature="167621:167705" ph="{&quot;url&quot;: &quot;http://localhost:8080/uploads/6938edb437aa95ce6cf156db2379bde9.jpeg&quot;...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

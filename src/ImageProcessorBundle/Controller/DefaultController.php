@@ -9,10 +9,17 @@ use Symfony\Component\HttpFoundation\Request;
 use ImageProcessorBundle\FileHandler\Base64ImageHandler;
 
 
-
+/**
+ * Class DefaultController
+ * @package ImageProcessorBundle\Controller
+ */
 class DefaultController extends FOSRestController
 {
-    public function uploadFile(Request $request)
+    /**
+     * @param Request $request
+     * @return bool|Base64ImageHandler
+     */
+    private function uploadFile(Request $request)
     {
         $base64File = $request->get('image');
 
@@ -25,6 +32,10 @@ class DefaultController extends FOSRestController
     }
 
 
+    /**
+     * @param Request $request
+     * @return View
+     */
     public function indexAction(Request $request)
     {
         $uploadedFile = $this->uploadFile($request);
